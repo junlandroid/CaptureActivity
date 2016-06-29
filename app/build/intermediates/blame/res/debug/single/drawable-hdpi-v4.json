@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\ASworkspace\\CaptureActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_back_nor.png",
+        "source": "D:\\ASworkspace\\CaptureActivity\\app\\src\\main\\res\\drawable-hdpi\\ic_back_nor.png"
+    },
+    {
+        "merged": "D:\\ASworkspace\\CaptureActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_title_bg.png",
+        "source": "D:\\ASworkspace\\CaptureActivity\\app\\src\\main\\res\\drawable-hdpi\\common_title_bg.png"
+    },
+    {
+        "merged": "D:\\ASworkspace\\CaptureActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_but_bg_nor.png",
+        "source": "D:\\ASworkspace\\CaptureActivity\\app\\src\\main\\res\\drawable-hdpi\\ic_but_bg_nor.png"
+    },
+    {
+        "merged": "D:\\ASworkspace\\CaptureActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\launcher_icon.png",
+        "source": "D:\\ASworkspace\\CaptureActivity\\app\\src\\main\\res\\drawable-hdpi\\launcher_icon.png"
+    },
+    {
+        "merged": "D:\\ASworkspace\\CaptureActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_back_sel.png",
+        "source": "D:\\ASworkspace\\CaptureActivity\\app\\src\\main\\res\\drawable-hdpi\\ic_back_sel.png"
+    },
+    {
+        "merged": "D:\\ASworkspace\\CaptureActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_but_bg_sel.png",
+        "source": "D:\\ASworkspace\\CaptureActivity\\app\\src\\main\\res\\drawable-hdpi\\ic_but_bg_sel.png"
+    },
+    {
+        "merged": "D:\\ASworkspace\\CaptureActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bottle_tip_button_nor.png",
+        "source": "D:\\ASworkspace\\CaptureActivity\\app\\src\\main\\res\\drawable-hdpi\\bottle_tip_button_nor.png"
+    },
+    {
+        "merged": "D:\\ASworkspace\\CaptureActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bottle_tip_button_pressed.png",
+        "source": "D:\\ASworkspace\\CaptureActivity\\app\\src\\main\\res\\drawable-hdpi\\bottle_tip_button_pressed.png"
+    },
+    {
+        "merged": "D:\\ASworkspace\\CaptureActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\weibo.jpg",
+        "source": "D:\\ASworkspace\\CaptureActivity\\app\\src\\main\\res\\drawable-hdpi\\weibo.jpg"
+    },
+    {
+        "merged": "D:\\ASworkspace\\CaptureActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\testerwei.png",
+        "source": "D:\\ASworkspace\\CaptureActivity\\app\\src\\main\\res\\drawable-hdpi\\testerwei.png"
+    },
+    {
+        "merged": "D:\\ASworkspace\\CaptureActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\barcode_gallery.png",
+        "source": "D:\\ASworkspace\\CaptureActivity\\app\\src\\main\\res\\drawable-hdpi\\barcode_gallery.png"
+    }
+]

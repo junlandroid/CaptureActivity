@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\ASworkspace\CaptureActivity\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d77322f9d41adbe5e2e835102d6631c4ab7053f1">
+        <dex dex="D:\ASworkspace\CaptureActivity\app\build\intermediates\pre-dexed\debug\instant-run_f388ea7a2dd1ebc5dd8235efca56cf673dd8a9ff.jar" />
+    </item>
+    <item
+        jar="D:\ASworkspace\CaptureActivity\app\libs\barcode_core.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="69ab751723c7f7c8a01fddb1d169a93160fadca7">
+        <dex dex="D:\ASworkspace\CaptureActivity\app\build\intermediates\pre-dexed\debug\barcode_core_2d81d0fb037bd57c1323036e43f9307fa1888b04.jar" />
+    </item>
+    <item
+        jar="D:\ASworkspace\CaptureActivity\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c25ce9817b32257e3b82cd76fb3bd344860a66ff">
+        <dex dex="D:\ASworkspace\CaptureActivity\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_8ddb7c9bd89e3468c8c9b9a73fda1ee16a8a1134.jar" />
+    </item>
+
+</items>

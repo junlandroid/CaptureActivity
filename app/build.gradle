@@ -1,0 +1,23 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 15
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "com.sitech.oncon.barcode"
+        minSdkVersion 7
+        targetSdkVersion 10
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles 'proguard-android-optimize.txt'
+        }
+    }
+}
+
+dependencies {
+    compile files('libs/barcode_core.jar')
+}

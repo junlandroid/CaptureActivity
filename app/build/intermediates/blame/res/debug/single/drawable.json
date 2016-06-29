@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\ASworkspace\\CaptureActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\launcher_icon.png",
+        "source": "D:\\ASworkspace\\CaptureActivity\\app\\src\\main\\res\\drawable\\launcher_icon.png"
+    },
+    {
+        "merged": "D:\\ASworkspace\\CaptureActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_but_bg.xml",
+        "source": "D:\\ASworkspace\\CaptureActivity\\app\\src\\main\\res\\drawable\\ic_but_bg.xml"
+    },
+    {
+        "merged": "D:\\ASworkspace\\CaptureActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bottle_back.xml",
+        "source": "D:\\ASworkspace\\CaptureActivity\\app\\src\\main\\res\\drawable\\bottle_back.xml"
+    },
+    {
+        "merged": "D:\\ASworkspace\\CaptureActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_back.xml",
+        "source": "D:\\ASworkspace\\CaptureActivity\\app\\src\\main\\res\\drawable\\ic_back.xml"
+    }
+]
